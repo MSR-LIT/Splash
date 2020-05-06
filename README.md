@@ -11,5 +11,6 @@ SPLASH will be released very soon. Stay tuned!
 Title = {Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback},
 Author = {Ahmed Elgohary and Saghar Hosseini and Ahmed Hassan Awadallah},
 Year = {2020},
-Booktitle = {Association for Computational Linguistics},}
+Booktitle = {Association for Computational Linguistics},
+}
 ```
