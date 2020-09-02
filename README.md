@@ -1,9 +1,16 @@
-# *SPLASH*: *S*emantic *P*arsing with *L*anguage *AS*sistance from *H*umans
-SPLASH is dataset for the task of semantic parse correction with natural language feedback.The task, dataset along with baseline results are presented in 
+# SPLASH: Semantic Parsing with Language Assistance from Humans
+SPLASH is dataset for the task of semantic parse correction with natural language feedback in the context of text-to-SQL parsing.
 
-<br/>[Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback.](https://arxiv.org/pdf/2005.02539.pdf)<br/>Ahmed Elgohary, Saghar Hosseini and Ahmed Hassan Awadallah.<br/>ACL 2020.
 
-SPLASH will be released very soon. Stay tuned!
+The task, dataset along with baseline results are presented in
+<br/>[Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback.](https://www.aclweb.org/anthology/2020.acl-main.187/)<br/>Ahmed Elgohary, Saghar Hosseini and Ahmed Hassan Awadallah.<br/>ACL 2020.
+
+## Release
+
+## Format
+
+## Example
+
 
 ## Citation
 ```
